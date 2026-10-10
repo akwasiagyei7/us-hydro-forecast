@@ -84,6 +84,10 @@ python build_dataset.py
 python evaluate.py                    # ~2 minutes; writes outputs/
 ```
 
+Prefer Jupyter? Open [`notebooks/run_pipeline.ipynb`](notebooks/run_pipeline.ipynb) and run the
+cells in order. It imports the same `src/` modules and walks through each step with the
+data visible in between.
+
 ## Roadmap
 
 - [ ] Add NOAA precipitation and drought index (PDSI / SPI) features
