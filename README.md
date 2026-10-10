@@ -1,4 +1,4 @@
-# us-hydro-forecast
+# US hydropower forecast
 
 Open-source benchmark of statistical and machine-learning models for forecasting
 monthly hydropower generation at U.S. plants, using only free public federal data.
@@ -9,10 +9,10 @@ monthly hydropower generation at U.S. plants, using only free public federal dat
 ## Why
 
 Hydropower is the largest source of flexible renewable power on the U.S. grid, and
-its output swings with rainfall and drought. Operators, utilities and planners need
+its output swings with rainfall and drought. Operators, utilities, and planners need
 reliable forecasts of how much a plant will produce next month and next season.
 This project builds a reproducible, public benchmark so that different forecasting
-methods can be compared on the same plants, the same years and the same metrics.
+methods can be compared on the same plants, years, and the same metrics.
 
 It extends my earlier published work on hydropower forecasting in Ghana
 ([ARIMA, 2022](https://doi.org/10.5539/ijsp.v11n5p30);
