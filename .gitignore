@@ -1,0 +1,6 @@
+data/raw/
+data/processed/usgs_daily_flow.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/eia_download.log
