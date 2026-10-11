@@ -3,21 +3,21 @@
 Open-source benchmark of statistical and machine-learning models for forecasting
 monthly hydropower generation at U.S. plants, using only free public federal data.
 
-**Author:** Akwasi Agyei (M.Stat., North Carolina State University)
-**Status:** work in progress — Phase 1 (Southeast U.S. plants)
+**Author:** Akwasi Agyei (M.Stat., North Carolina State University). akwasiagyei489@gmail.com
+**Status:** work in progress — Phase 1 (Southeast U.S. plants), started October 2026.
 
-## Why
+## Why I care about hydropower generation
 
-Hydropower is the largest source of flexible renewable power on the U.S. grid, and
-its output swings with rainfall and drought. Operators, utilities, and planners need
-reliable forecasts of how much a plant will produce next month and next season.
-This project builds a reproducible, public benchmark so that different forecasting
-methods can be compared on the same plants, years, and the same metrics.
+My interest in hydropower began in Ghana, where I saw firsthand how closely electricity generation depends on the availability of water. Akosombo Dam provides a significant share of the country's electricity, but during periods of drought, water levels are reduced, and this contributes to power shortages that impact millions of households and businesses. Watching these challenges unfold made me curious about how data and forecasting could help improve energy planning and reliability.
 
-It extends my earlier published work on hydropower forecasting in Ghana
-([ARIMA, 2022](https://doi.org/10.5539/ijsp.v11n5p30);
-[structural VAR, 2022](https://doi.org/10.5539/ijsp.v11n3p22)) to U.S. systems,
-with richer data and modern machine-learning methods.
+My co-author and I published two papers on it in 2022: an ARIMA
+forecast of generation and reservoir level ([ARIMA, 2022](https://doi.org/10.5539/ijsp.v11n5p30)) and a structural
+VAR study of how water level, crude oil, and generation interact
+[structural VAR, 2022](https://doi.org/10.5539/ijsp.v11n3p22)). 
+
+Today, I see many of the same challenges in the United States, where droughts, shifting weather patterns, and changing water availability increasingly affect hydropower generation. What excites me is the opportunity to work with the rich historical datasets made publicly available by the EIA and USGS. These data provide a foundation for developing forecasting tools that can help operators make better decisions about water resources and energy production. I hope to contribute to this effort by applying artificial intelligence, machine learning, and statistical modeling techniques to improve forecasting accuracy and operational planning.
+
+For me, this work goes beyond building accurate predictive models. It is about applying the statistical skills I have developed over the years to help strengthen the reliability, efficiency, and sustainability of energy systems.
 
 ## Data (all free and public)
 
